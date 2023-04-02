@@ -4,14 +4,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, cd into to the garden-app directory and install the required dependencies
 ```
-npm install
 cd garden-app
+npm install
 ```
 
 Create a .env.local file and add your google maps API key
 ```
 NEXT_PUBLIC_GOOGLE_MAPS_API_KEY= "YOUR_KEY"
-
 ```
 Cd into the db folder and start the Strapi 
 ```
