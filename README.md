@@ -2,8 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, cd into to the garden-app directory
+First, cd into to the garden-app directory and install the require dependencies
 ```
+npm install
 cd garden-app
 ```
 
