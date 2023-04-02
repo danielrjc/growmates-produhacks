@@ -13,7 +13,7 @@ Create a .env.local file and add your google maps API key
 NEXT_PUBLIC_GOOGLE_MAPS_API_KEY= "YOUR_KEY"
 
 ```
-Cd into the db folder and start the strapi cms server
+Cd into the db folder and start the Strapi 
 ```
 npm run develop
 ```
@@ -26,6 +26,10 @@ yarn dev
 # or
 pnpm dev
 ```
+
+Resources:
+https://docs.strapi.io/
+https://nextjs.org/docs
 
 
 
