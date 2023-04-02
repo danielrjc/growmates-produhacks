@@ -28,7 +28,7 @@ pnpm dev
 ```
 
 Resources:
-https://docs.strapi.io/
+https://docs.strapi.io/ ,
 https://nextjs.org/docs
 
 
