@@ -1,0 +1,7 @@
+GET http://localhost:1337/api/users/1?populate=*
+# content-type: application/json
+
+# {
+#     "identifier": "danielrjc99@gmail.com",
+#     "password": "Produhacks1"
+# }
