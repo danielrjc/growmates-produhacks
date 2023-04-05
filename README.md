@@ -1,3 +1,7 @@
+# **GrowMates - Uniting Gardeners and Landowners for a Greener Future** 
+
+**GrowMates** is a platform that connects individuals seeking to rent land for urban farming or gardening with experienced gardeners in search of land to cultivate crops. The platform promotes sustainable and locally sourced food production by facilitating land rental, offering a marketplace for produce sales, and providing a feed for knowledge exchange.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
